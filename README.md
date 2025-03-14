@@ -39,7 +39,5 @@ Here are some of my latest works:
 
 ---
 
->  * 🌿 "All my creative skills and talents are a blessing from Allah. Alhamdulillah for everything." 🌿
-
-— Suprov Foysal
+>  * 🌿 "All my creative skills and talents are a blessing from Allah. Alhamdulillah — Suprov Foysal
 
