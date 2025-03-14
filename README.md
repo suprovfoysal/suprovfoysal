@@ -1,4 +1,5 @@
 ## Hi there i'm ***Suprov Foysal*** 👋
+[github](www.google.com)
 
 🎨 I'm a **3D Artist & Product Animator** passionate about creating high-quality 3D assets and animations.  
 💼 Currently focusing on **Product Animation** and **Lighting Design**.  
@@ -15,6 +16,7 @@
 - **Adobe Photoshop, Illustrator** (Post-production)
 
 ---
+>foysalsd dfsd
 
 ## 📂 Portfolio Repositories
 
