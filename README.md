@@ -5,6 +5,7 @@
 🌱 Always learning new things in ***Blender 3D, DaVinci resolve 9***, and **Product Visualization**.
 
 ---
+![alt text](https://github.com/suprovfoysal/suprov/blob/main/BATH%20ROOM%20WITH%20TREE1.png?raw=true)
 
 ## 🛠️ Skills
 
@@ -23,7 +24,7 @@ Here are some of my latest works:
 | Project Name                      | Description                      | Link                                  |
 |----------------------------------|----------------------------------|--------------------------------------|
 | **3D Product Animation**          | High-quality product animations  | [View Project](https://github.com/suprovfoysal/3D-Product-Animation) |
-| **LED Light Design Assets**      | Game-ready LED light models      | [image link] https://github.com/suprovfoysal/suprov/blob/main/BATH%20ROOM%20WITH%20TREE1.png?raw=true |
+| **LED Light Design Assets**      | Game-ready LED light models      | ![alt text](https://github.com/suprovfoysal/suprov/blob/main/BATH%20ROOM%20WITH%20TREE1.png?raw=true) |
 | **Interior Visualization**       | Ultra-realistic interiors        | [View Project](https://photos.app.goo.gl/oDmP1hegLusxhFch8) |
 
 ---
