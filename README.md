@@ -23,7 +23,7 @@ Here are some of my latest works:
 | Project Name                      | Description                      | Link                                  |
 |----------------------------------|----------------------------------|--------------------------------------|
 | **3D Product Animation**          | High-quality product animations  | [View Project](https://github.com/suprovfoysal/3D-Product-Animation) |
-| **LED Light Design Assets**      | Game-ready LED light models      | [View Project](https://github.com/suprovfoysal/LED-Light-Design) |
+| **LED Light Design Assets**      | Game-ready LED light models      | [View Project] git remote add origin https://github.com/username/repo-name.git |
 | **Interior Visualization**       | Ultra-realistic interiors        | [View Project](https://photos.app.goo.gl/oDmP1hegLusxhFch8) |
 
 ---
