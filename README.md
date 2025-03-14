@@ -5,7 +5,6 @@
 🌱 Always learning new things in ***Blender 3D, DaVinci resolve 9***, and **Product Visualization**.
 
 ---
-![alt text](https://github.com/suprovfoysal/suprov/blob/main/BATH%20ROOM%20WITH%20TREE1.png?raw=true)
 
 ## 🛠️ Skills
 
