@@ -1,8 +1,8 @@
-## Hi there i'm Suprov Foysal 👋
+## Hi there i'm ***Suprov Foysal*** 👋
 
 🎨 I'm a **3D Artist & Product Animator** passionate about creating high-quality 3D assets and animations.  
 💼 Currently focusing on **Product Animation** and **Lighting Design**.  
-🌱 Always learning new things in **Blender 3D, Unreal Engine**, and **Product Visualization**.
+🌱 Always learning new things in ***Blender 3D, DaVinci resolve 9***, and **Product Visualization**.
 
 ---
 
