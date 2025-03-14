@@ -39,5 +39,7 @@ Here are some of my latest works:
 
 ---
 
-> 💡 *"Creativity is intelligence having fun."* — Albert Einstein
+>  * 🌿 "All my creative skills and talents are a blessing from Allah. Alhamdulillah for everything." 🌿
+
+— Suprov Foysal
 
