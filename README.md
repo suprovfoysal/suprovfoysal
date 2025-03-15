@@ -20,21 +20,21 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 Here are some of my latest works:
 
 <p align="center">
-  <img src="IMAGE_URL_1" alt="Work 1" width="200" height="200">
-  <img src="IMAGE_URL_2" alt="Work 2" width="200" height="200">
-  <img src="IMAGE_URL_3" alt="Work 3" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 1" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 2" width="200" height="200">
+  <img src="[IMAGE_URL_3](https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9)" alt="Work 3" width="200" height="200">
 </p>
 
 <p align="center">
-  <img src="IMAGE_URL_4" alt="Work 4" width="200" height="200">
-  <img src="IMAGE_URL_5" alt="Work 5" width="200" height="200">
-  <img src="IMAGE_URL_6" alt="Work 6" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 4" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 5" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 6" width="200" height="200">
 </p>
 
 <p align="center">
-  <img src="IMAGE_URL_7" alt="Work 7" width="200" height="200">
-  <img src="IMAGE_URL_8" alt="Work 8" width="200" height="200">
-  <img src="IMAGE_URL_9" alt="Work 9" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 7" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 8" width="200" height="200">
+  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 9" width="200" height="200">
 </p>
 
 ---
