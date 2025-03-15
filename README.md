@@ -1,20 +1,17 @@
-
-
-# Hi there i'm **Suprov Foysal** 👋
+# **Hi there i'm **Suprov Foysal** 👋**
 ### **Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D assets and animations.  
 💼 Specialized in ***Product Animation*** , ***Interior Visualization***, and ***Lighting Design*** for realistic and impactful visuals.  
----
 
 ## 🛠️ **Skills & Tools**
+
+![alt text](https://photos.fife.usercontent.google.com/pw/AP1GczM0LU8fhvnxQP36ChG36Z8exnsJGxEcrsOXqDEAFAS-n3KdAzeUPxrtBA=w938-h938-s-no?authuser=0)
 
 - **3D Modeling & Sculpting** - ***(Blender)***
 - **Product Animation** - ***(Cycles, Eevee)***
 - **Lighting & Rendering** - ***(Realistic & Stylized)***
 - **Video Editing & Compositing** - ***(DaVinci Resolve)***
 - **Adobe Photoshop, Illustrator** - ***(Post-production)***
-
----
-
+![alt text]()
 ## 📂 Portfolio Repositories
 
 Here are some of my latest works:
