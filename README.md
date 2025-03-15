@@ -7,11 +7,11 @@
 
 ## 🛠️ **Skills & Tools**
 
-- **3D Modeling & Sculpting** (Blender)
-- **Product Animation** (Cycles, Eevee)
-- **Lighting & Rendering** (Realistic & Stylized)
-- **Video Editing & Compositing** (DaVinci Resolve)
-- **Adobe Photoshop, Illustrator** (Post-production)
+- **3D Modeling & Sculpting** - ***(Blender)***
+- **Product Animation** - ***(Cycles, Eevee)***
+- **Lighting & Rendering** - ***(Realistic & Stylized)***
+- **Video Editing & Compositing** - ***(DaVinci Resolve)***
+- **Adobe Photoshop, Illustrator** - ***(Post-production)***
 
 ---
 
