@@ -1,6 +1,13 @@
-# **Hi there i'm **Suprov Foysal** 👋**
+## HI THERE! 👋
+# **I'AM SUPROV FOYSAL**
 ### **Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D assets and animations.  
-    💼 Specialized in ***Product Animation*** , ***Interior Visualization***, and ***Lighting Design*** for realistic and impactful visuals.  
+
+<h2><B>ABOUT ME</B></h2>
+A professional 3D Artist and Visual Designer specializing in realistic product visualization, animation, and storytelling. Experienced with Blender 3D, Adobe Photoshop, Illustrator, and DaVinci Resolve.
+
+Focused on creating high-quality visuals through expert use of lighting, composition, and photorealism, while maintaining precision, aesthetics, and professionalism in every project.
+
+Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.
 
 ## 🛠️ **Skills & Tools**
 
@@ -33,37 +40,6 @@ Here are some of my latest works:
 - **Upwork:** [upwork.com/freelancers/~0144f84b70f430d66b](https://www.upwork.com/freelancers/~0144f84b70f430d66b)  
 
 ---
-
-<details>
-  Hi [Client's Name],
-
-Thank you for sharing the project details!
-I’ve carefully read your requirements and I’m confident that I can deliver high-quality, photorealistic renderings exactly like the samples you provided.
-
-✅ Here’s what I can offer you:
-
-    Photorealistic Interior & Exterior Renders (Bathroom, Kitchen, Living, Bedroom, Outdoor, etc.)
-    High-Quality 3D Modeling & Clean Topology
-    Realistic Lighting & Environment Setup
-    Fast Delivery within Deadlines (3 days or less)
-    Unlimited Revisions until Satisfaction
-
-💬 Why choose me?
-
-    Quick and clear communication
-    Attention to detail to ensure stunning visuals
-    Long-term collaboration mindset
-    Cost-effective solutions without compromising quality
-
-I’m excited to work on this project and ready to start as soon as you’re available!
-Feel free to share the design brief or any additional references.
-
-Looking forward to collaborating with you!
-
-Best Regards,
-Suprov
-3D Product & Interior Visualization Specialist
-</details>
 
 > ### ***🌿 "All my creative skills and talents are a blessing from Allah. Alhamdulillah*** — Suprov Foysal
 
