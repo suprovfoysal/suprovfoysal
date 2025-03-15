@@ -10,9 +10,6 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
 
 ## 🛠️ **Skills & Tools**
-
-![alt text](https://photos.fife.usercontent.google.com/pw/AP1GczM0LU8fhvnxQP36ChG36Z8exnsJGxEcrsOXqDEAFAS-n3KdAzeUPxrtBA=w938-h938-s-no?authuser=0)
-
 - **3D Modeling & Sculpting** - ***(Blender)***
 - **Product Animation** - ***(Cycles, Eevee)***
 - **Lighting & Rendering** - ***(Realistic & Stylized)***
