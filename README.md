@@ -20,20 +20,20 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 Here are some of my latest works:
 <p align="center">
   <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 1" width="200" height="200">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 2" width="200" height="200">
-  <img src="[IMAGE_URL_3](https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9)" alt="Work 3" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 2" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 3" width="200" height="200">
 </p>
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 4" width="200" height="200">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 5" width="200" height="200">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 6" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 4" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 5" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 6" width="200" height="200">
 </p>
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 7" width="200" height="200">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 8" width="200" height="200">
-  <img src="https://photos.app.goo.gl/hS8ZZcsqd5x6fawQ9" alt="Work 9" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 7" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 8" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 9" width="200" height="200">
 </p>
 
 ---
