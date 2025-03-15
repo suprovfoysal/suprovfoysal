@@ -19,11 +19,23 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 <h2 align="center">📂 PORTFOLIO</h2>
 Here are some of my latest works:
 
-| Project Name                      | Description                      | Link                                  |
-|----------------------------------|----------------------------------|--------------------------------------|
-| **3D Product Animation**          | High-quality product animations  | [View Project](https://github.com/suprovfoysal/3D-Product-Animation) |
-| **LED Light Design Assets**      | Game-ready LED light models      | ![alt text](https://github.com/suprovfoysal/suprov/blob/main/BATH%20ROOM%20WITH%20TREE1.png?raw=true) |
-| **Interior Visualization**       | Ultra-realistic interiors        | [View Project](https://photos.app.goo.gl/oDmP1hegLusxhFch8) |
+<p align="center">
+  <img src="IMAGE_URL_1" alt="Work 1" width="200" height="200">
+  <img src="IMAGE_URL_2" alt="Work 2" width="200" height="200">
+  <img src="IMAGE_URL_3" alt="Work 3" width="200" height="200">
+</p>
+
+<p align="center">
+  <img src="IMAGE_URL_4" alt="Work 4" width="200" height="200">
+  <img src="IMAGE_URL_5" alt="Work 5" width="200" height="200">
+  <img src="IMAGE_URL_6" alt="Work 6" width="200" height="200">
+</p>
+
+<p align="center">
+  <img src="IMAGE_URL_7" alt="Work 7" width="200" height="200">
+  <img src="IMAGE_URL_8" alt="Work 8" width="200" height="200">
+  <img src="IMAGE_URL_9" alt="Work 9" width="200" height="200">
+</p>
 
 ---
 
