@@ -7,17 +7,16 @@
 
 Focused on creating high-quality visuals through expert use of lighting, composition, and photorealism, while maintaining precision, aesthetics, and professionalism in every project.
 
-Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
+<b>What I DO?</b>Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
 
-## 🛠️ **Skills & Tools**
+## 🛠️ Skills & Tools
 - **3D Modeling & Sculpting** - ***(Blender)***
 - **Product Animation** - ***(Cycles, Eevee)***
 - **Lighting & Rendering** - ***(Realistic & Stylized)***
 - **Video Editing & Compositing** - ***(DaVinci Resolve)***
 - **Adobe Photoshop, Illustrator** - ***(Post-production)***
-![alt text]()
-## 📂 Portfolio Repositories
 
+<h2 align="center">📂 PORTFOLIO</h2>
 Here are some of my latest works:
 
 | Project Name                      | Description                      | Link                                  |
