@@ -21,8 +21,8 @@ Here are some of my latest works:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="400" height="400">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM WITH TREE.jpg?raw=true" alt="Work 2" width="758" height="auto">
-  <img src="" alt="Work 3" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 2" width="400" height="400">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM WITH TREE.jpg?raw=true" alt="Work 3" width="758" height="auto">
 </p>
 <p align="center">
   <img src="" alt="Work 4" width="200" height="200">
