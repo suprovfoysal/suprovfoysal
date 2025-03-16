@@ -26,7 +26,7 @@ Here are some of my latest works:
 <p align="center">
   <img src="" alt="Work 4" width="200" height="200">
   <img src="" alt="Work 5" width="200" height="200">
-  <img src="raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 6" width="200" height="200">
+  <img src="//raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 6" width="200" height="200">
 </p>
 
 ---
