@@ -1,5 +1,5 @@
-## HI THERE! 👋
-# **I'AM SUPROV FOYSAL**
+👋
+# **HI THERE! I'AM SUPROV FOYSAL**
 ### <i>**Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D assets and animations.</i> 
 
 <h2><B>ABOUT ME</B></h2>
@@ -9,12 +9,6 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 
 <b>What I DO?</b>Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
 
-## 🛠️ Skills & Tools
-- **3D Modeling & Sculpting** - ***(Blender)***
-- **Product Animation** - ***(Cycles, Eevee)***
-- **Lighting & Rendering** - ***(Realistic & Stylized)***
-- **Video Editing & Compositing** - ***(DaVinci Resolve)***
-- **Adobe Photoshop, Illustrator** - ***(Post-production)***
 
 # <h2 align="center">📂 PORTFOLIO</h2>
 
@@ -31,6 +25,12 @@ Focused on creating high-quality visuals through expert use of lighting, composi
   <img src="" alt="Work 6" width="200" height="200">
 </p>
 
+## 🛠️ Skills & Tools
+- **3D Modeling & Sculpting** - ***(Blender)***
+- **Product Animation** - ***(Cycles, Eevee)***
+- **Lighting & Rendering** - ***(Realistic & Stylized)***
+- **Video Editing & Compositing** - ***(DaVinci Resolve)***
+- **Adobe Photoshop, Illustrator** - ***(Post-production)***
 ---
 
 ## 📫 Contact Me
