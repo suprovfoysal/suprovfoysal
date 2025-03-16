@@ -20,7 +20,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 Here are some of my latest works:
 <p align="center">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="200" height="200">
-  <img src="https://github.com/suprovfoysal/suprovfoysal/blob/main/BATH%20ROOM%20WITH%20TREE.jpg?raw=true" alt="Work 2" width="2160" height="3840">
+  <img src="https://github.com/suprovfoysal/suprovfoysal/blob/main/BATH%20ROOM%20WITH%20TREE.jpg?raw=true" alt="Work 2" width="200" height="auto">
   <img src="" alt="Work 3" width="200" height="200">
 </p>
 <p align="center">
