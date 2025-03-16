@@ -28,7 +28,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 <p align="center">
   <img src="" alt="Work 4" width="200" height="200">
   <img src="" alt="Work 5" width="200" height="200">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM WITH TREE.jpg" alt="Work 6" width="200" height="200">
+  <img src="" alt="Work 6" width="200" height="200">
 </p>
 
 ---
