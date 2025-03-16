@@ -12,7 +12,6 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 
 # <h2 align="center">📂 PORTFOLIO</h2>
 
-### Click and see high qulaity preview.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="200" height="200">
