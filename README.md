@@ -17,7 +17,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 - **Adobe Photoshop, Illustrator** - ***(Post-production)***
 
 <h2 align="center">📂 PORTFOLIO</h2>
-<P aling="center">Here are some of my latest works:</P>
+<h align="center">click and see high qulaity preview</h>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="200" height="200">
