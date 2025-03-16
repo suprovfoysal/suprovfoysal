@@ -19,7 +19,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 <h2 align="center">📂 PORTFOLIO</h2>
 Here are some of my latest works:
 <p align="center">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 1" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysal/blob/main/hadphone.jpg?raw=true" alt="Work 1" width="200" height="200">
   <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 2" width="200" height="200">
   <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 3" width="200" height="200">
 </p>
