@@ -19,14 +19,14 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 <h2 align="center">📂 PORTFOLIO</h2>
 Here are some of my latest works:
 <p align="center">
-  <img src="https://github.com/suprovfoysal/suprovfoysal/blob/main/hadphone.jpg?raw=true" alt="Work 1" width="200" height="200">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 2" width="200" height="200">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 3" width="200" height="200">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="200" height="200">
+  <img src="https://github.com/suprovfoysal/suprovfoysal/blob/main/BATH%20ROOM%20WITH%20TREE.jpg?raw=true" alt="Work 2" width="200" height="200">
+  <img src="" alt="Work 3" width="200" height="200">
 </p>
 <p align="center">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 4" width="200" height="200">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 5" width="200" height="200">
-  <img src="https://github.com/suprovfoysal/suprovfoysalportfolio/blob/7c79f7728490308e59f13bb920f1c604564fecda/hadphone.jpg" alt="Work 6" width="200" height="200">
+  <img src="" alt="Work 4" width="200" height="200">
+  <img src="" alt="Work 5" width="200" height="200">
+  <img src="" alt="Work 6" width="200" height="200">
 </p>
 
 ---
