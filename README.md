@@ -18,6 +18,10 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 
 <h2 align="center">📂 PORTFOLIO</h2>
 Here are some of my latest works:
+img:hover {
+  transform: scale(1.05);
+  transition: transform 0.3s ease;
+}
 <p align="center">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hadphone.jpg" alt="Work 1" width="200" height="200">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM WITH TREE.jpg?raw=true" alt="Work 2" width="379" height="auto">
