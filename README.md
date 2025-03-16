@@ -16,7 +16,8 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 - **Video Editing & Compositing** - ***(DaVinci Resolve)***
 - **Adobe Photoshop, Illustrator** - ***(Post-production)***
 
-<h2 align="center">📂 PORTFOLIO</h2>
+# <h2 align="center">📂 PORTFOLIO</h2>
+
 ### <i>Click and see high qulaity preview..🌿</i>
 
 <p align="center">
