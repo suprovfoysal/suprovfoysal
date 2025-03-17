@@ -13,10 +13,13 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 # <h2 align="center">📂 PORTFOLIO</h2>
 <p align="center"> 
   
-<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="900" height="auto">
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="1000" height="auto">
  
 <details><summary>MORE PHOTOS</summary>
-(https://PDF.LINK)
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 1" width="200" height="auto">
   </details>
 </p>
 
