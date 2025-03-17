@@ -33,7 +33,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 15" width="200" height="auto">
 </p>
 
-*I have worked on different parts of various projects mainly for learning purposes. Instead of completing entire projects, I focused on developing specific skills such as modeling, texturing, lighting, animation, and rendering. This approach allowed me to gain deep knowledge and hands-on experience in each area. With these experiences, I am fully capable of handling complete projects efficiently.*
+*<h2>Description-</h2>I have worked on different parts of various projects mainly for learning purposes. Instead of completing entire projects, I focused on developing specific skills such as modeling, texturing, lighting, animation, and rendering. This approach allowed me to gain deep knowledge and hands-on experience in each area. With these experiences, I am fully capable of handling complete projects efficiently.*
 
   </details>
 </p>
