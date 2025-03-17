@@ -12,7 +12,8 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 
 # <h2 align="center">📂 PORTFOLIO</h2>
 <p align="center">
-<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/path-to-image/BATH ROOM.png" alt="Work 1" width="900" height="auto">
+  
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM.png" alt="Work 1" width="900" height="auto">
 </p>
 
 ## 🛠️ Skills & Tools
