@@ -15,7 +15,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
   
 <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM T.png" alt="Work 1" width="1000" height="auto">
  
-<details><summary>MORE PHOTOS</summary>
+**<details><summary>MORE PHOTOS</summary>***
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TREE.jpg" alt="Work 1" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TOILET.png" alt="Work 2" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TREE.jpg" alt="Work 3" width="200" height="auto">
@@ -24,11 +24,11 @@ Focused on creating high-quality visuals through expert use of lighting, composi
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/CHAIR TABLE.png" alt="Work 6" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/hfghuj.png" alt="Work 7" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/ROOM.jpg" alt="Work 8" width="200" height="auto">
-   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/SOFA.png" alt="Work 9" width="200" height="auto">
-      <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/ROOM.jpg" alt="Work 10" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/SOFA.png" alt="Work 9" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/ROOM.jpg" alt="Work 10" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/TOP VIEW.jpg" alt="Work 11" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/untitled4.png" alt="Work 12" width="200" height="auto">
-    <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TOILET.png" alt="Work 13" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TOILET.png" alt="Work 13" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/WATER TAB.png" alt="Work 14" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATHROOM.png" alt="Work 15" width="200" height="auto">
   
