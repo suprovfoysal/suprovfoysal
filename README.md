@@ -11,19 +11,9 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 
 
 # <h2 align="center">📂 PORTFOLIO</h2>
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/WATER TAB.png" alt="Work 1" width="150" height="auto">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TREE.jpg" alt="Work 2" width="150" height="auto">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM.png" alt="Work 3" width="150" height="auto">
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM.png" alt="Work 1" width="900" height="auto">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/CAT SELF.png" alt="Work 4" width="150" height="auto">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/CHAIR TABLE.png" alt="Work 5" width="150" height="auto">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/ROOM.jpg" alt="Work 6" width="150" height="auto">
-</p>
-
 
 ## 🛠️ Skills & Tools
 - **3D Modeling & Sculpting** - ***(Blender)***
