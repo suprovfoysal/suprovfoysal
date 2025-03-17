@@ -18,7 +18,7 @@ Focused on creating high-quality visuals through expert use of lighting, composi
 **<details><summary>MORE PHOTOS</summary>***
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TREE.jpg" alt="Work 1" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TOILET.png" alt="Work 2" width="200" height="auto">
-  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM TREE.jpg" alt="Work 3" width="200" height="auto">
+  <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/full b ookk selfe.png" alt="Work 3" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/CAT SELF.png" alt="Work 4" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/chair 56.png" alt="Work 5" width="200" height="auto">
   <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/CHAIR TABLE.png" alt="Work 6" width="200" height="auto">
