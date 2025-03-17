@@ -2,7 +2,7 @@
 
 # **HI THERE! I'AM 𝐒𝐔𝐏𝐑𝐎𝐕 𝐅𝐎𝐘𝐒𝐀𝐋**
 
-### <i>**Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D assets and animations.</i> 
+### <i>**Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D animations Rendering.</i> 
 
 <h2><B>ＡＢＯＵＴ ＭＥ</B></h2>
 <i>A professional 3D Artist and Visual Designer specializing in realistic product visualization, animation, and storytelling. Experienced with <b>Blender 3D</b>, Adobe Photoshop, Illustrator, and DaVinci Resolve.
