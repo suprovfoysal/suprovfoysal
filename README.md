@@ -1,3 +1,7 @@
+<p align="center"> 
+  
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM T.png" alt="Work 1" width="1000" height="auto">
+</p>
 👋
 
 # **HI THERE! I'AM 𝐒𝐔𝐏𝐑𝐎𝐕 𝐅𝐎𝐘𝐒𝐀𝐋**
