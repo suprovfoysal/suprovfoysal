@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
 </p>
 
-### <i>**Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D animations Rendering.</i> 
 
 <h2><B>ＡＢＯＵＴ ＭＥ</B></h2>
 <i>A professional 3D Artist and Visual Designer specializing in realistic product visualization, animation, and storytelling. Experienced with <b>Blender 3D</b>, Adobe Photoshop, Illustrator, and DaVinci Resolve.
