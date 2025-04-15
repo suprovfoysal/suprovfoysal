@@ -2,9 +2,6 @@
   
 <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
 </p>
-👋
-
-# **HI THERE! I'AM 𝐒𝐔𝐏𝐑𝐎𝐕 𝐅𝐎𝐘𝐒𝐀𝐋**
 
 ### <i>**Professinal 3D Artist & Product Animator** focused on creating high-quality **Product** and **Interior** 3D animations Rendering.</i> 
 
