@@ -1,6 +1,6 @@
 <p align="center"> 
   
-<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/BATH ROOM T.png" alt="Work 1" width="1000" height="auto">
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
 </p>
 👋
 
