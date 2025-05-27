@@ -1,4 +1,7 @@
 <p align="center"> 
+
+[![Watch the video](https://img.youtube.com/vi/O6xIVHUMH40/maxresdefault.jpg)](https://youtu.be/O6xIVHUMH40?si=Z8G7rzaoCeKcrHq-)
+
   
 <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
 </p>
