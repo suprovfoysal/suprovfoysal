@@ -1,6 +1,9 @@
 <p align="center"> 
 
-[![▶ Watch on YouTube](https://i.imgur.com/5RHR6Ku.png)](https://youtu.be/O6xIVHUMH40?si=Z8G7rzaoCeKcrHq-)
+<a href="https://youtu.be/O6xIVHUMH40?si=Z8G7rzaoCeKcrHq-" target="_blank">
+  <img src="https://img.youtube.com/vi/O6xIVHUMH40/maxresdefault.jpg" alt="Watch on YouTube" style="width:100%; max-width:640px; border-radius:12px; position: relative;">
+</a>
+
 
 
   
