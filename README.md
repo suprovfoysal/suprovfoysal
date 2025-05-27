@@ -1,8 +1,9 @@
 <p align="center"> 
 
-<a href="https://drive.google.com/file/d/1tQ9wHkZ2YeP2DdYUZIEGwin5JKKLz2dl/view?usp=drive_link" target="_blank">
-  <img src="https://youtu.be/O6xIVHUMH40?si=qxDVKjwiKKRbtttp" alt="Watch on YouTube" style="width:100%; max-width:640px; border-radius:12px; position: relative;">
+<a href="https://youtu.be/O6xIVHUMH40?si=qxDVKjwiKKRbtttp" target="_blank">
+  <img src="https://drive.google.com/uc?id=1tQ9wHkZ2YeP2DdYUZIEGwin5JKKLz2dl" alt="Watch the Video on YouTube" style="width:100%; max-width:720px; border-radius:12px;">
 </a>
+
 
 
 
