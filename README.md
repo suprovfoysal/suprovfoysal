@@ -1,7 +1,7 @@
 <p align="center"> 
 
 <a href="https://drive.google.com/file/d/1tQ9wHkZ2YeP2DdYUZIEGwin5JKKLz2dl/view?usp=drive_link" target="_blank">
-  <img src="https://img.youtube.com/vi/O6xIVHUMH40/maxresdefault.jpg" alt="Watch on YouTube" style="width:100%; max-width:640px; border-radius:12px; position: relative;">
+  <img src="https://youtu.be/O6xIVHUMH40?si=qxDVKjwiKKRbtttp" alt="Watch on YouTube" style="width:100%; max-width:640px; border-radius:12px; position: relative;">
 </a>
 
 
