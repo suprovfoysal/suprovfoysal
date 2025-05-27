@@ -5,9 +5,14 @@
 
 
 <h2><B>ＡＢＯＵＴ ＭＥ</B></h2>
-<i>A professional 3D Artist and Visual Designer specializing in realistic product visualization, animation, and storytelling. Experienced with <b>Blender 3D</b>, Adobe Photoshop, Illustrator, and DaVinci Resolve.
-
-Creating high-quality visuals through expert use of lighting, composition, and photorealism, while maintaining precision, aesthetics, and professionalism in every project.
+<i>As a highly skilled 3D Artist, I offer extensive expertise in delivering photorealistic
+product animations and compelling visual narratives. My technical proficiency
+encompasses Blender, Adobe Illustrator, and Photoshop, complemented by a
+meticulous attention to brand identity, typography, and layout composition. I am
+committed to leveraging my capabilities to produce premium visual assets, including
+sophisticated product renderings, user interface designs, and intricate 3D
+animations, thereby enhancing brand storytelling and advancing strategic creative
+endeavors.
 
 <b>What I DO?</b>Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
 
