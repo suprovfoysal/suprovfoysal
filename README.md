@@ -1,11 +1,4 @@
 <p align="center"> 
-
-  <img src="https://drive.google.com/uc?id=1tQ9wHkZ2YeP2DdYUZIEGwin5JKKLz2dl" alt="Watch the Video on YouTube" style="width:100%; max-width:720px; border-radius:12px;">
-</a>
-
-
-
-
   
 <img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
 </p>
