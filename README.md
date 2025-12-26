@@ -5,14 +5,7 @@
 
 
 <h2><B>ＡＢＯＵＴ ＭＥ</B></h2>
-<i>As a highly skilled 3D Artist, I offer extensive expertise in delivering photorealistic
-product animations and compelling visual narratives. My technical proficiency
-encompasses Blender, Adobe Illustrator, and Photoshop, complemented by a
-meticulous attention to brand identity, typography, and layout composition. I am
-committed to leveraging my capabilities to produce premium visual assets, including
-sophisticated product renderings, user interface designs, and intricate 3D
-animations, thereby enhancing brand storytelling and advancing strategic creative
-endeavors.
+<i>3D Modeling, Rendering & CGI Animation Specialist
 
 <b>What I DO?</b>Constantly learning new technologies to enhance creativity and quality. Open to freelance work, collaborations, and challenging projects that require advanced visual solutions.</i>
 
