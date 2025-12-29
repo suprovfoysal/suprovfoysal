@@ -4,7 +4,7 @@
 </p>
 
 
-<h2><B>ＡＢＯＵＴ ＭＥ</B></h2>
+<h1><B>ＡＢＯＵＴ ＭＥ</B></h1>
 <i>3D Modeling, Rendering & CGI Animation Specialist
 
 <b>I am Shah Foysal Ahmed, professionally known as Suprov Foysal. I work on industry-standard detailed 3D modeling, along with high-end product rendering and animation.
