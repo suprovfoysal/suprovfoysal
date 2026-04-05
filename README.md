@@ -1,6 +1,12 @@
 <p align="center"> 
   
+<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
+</p>
 
+<p align="center"> 
+  
+<img src= "ROOM" alt="Work 1" width="1000" height="auto">
+</p>
 
 
 <h1> ABOUT ME </h1>
