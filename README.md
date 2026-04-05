@@ -5,8 +5,7 @@
 
 <p align="center"> 
   
-<img src= "ROOM" alt="Work 1" width="1000" height="auto">
-</p>
+<img src="main/BATH ROOM T.jpg" alt="">
 
 
 <h1> ABOUT ME </h1>
