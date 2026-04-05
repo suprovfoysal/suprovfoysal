@@ -5,7 +5,7 @@
 
 <p align="center"> 
   
-<img src="main/BATH ROOM T.jpg" alt="">
+<img src="BATH ROOM T.jpg" alt="">
 
 
 <h1> ABOUT ME </h1>
