@@ -1,10 +1,9 @@
 <p align="center"> 
   
-<img src="https://raw.githubusercontent.com/suprovfoysal/suprovfoysal/main/bench final ink cover photo.png" alt="Work 1" width="1000" height="auto">
-</p>
 
 
-<h1><B>ＡＢＯＵＴ ＭＥ</B></h1>
+
+<h1> ABOUT ME </h1>
 <i>3D Modeling, Rendering & CGI Animation Specialist
 
 <b>I am Shah Foysal Ahmed, professionally known as (Suprov Foysal). I work on industry-standard detailed 3D modeling, along with high-end product rendering and animation.
